@@ -1,0 +1,2 @@
+Get data into Power BI
+In Calendar table add start of month, start of week, quarter, and day name,year
