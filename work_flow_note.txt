@@ -6,3 +6,6 @@ add in and transform customer lookup data by removing error rows and empty rows 
 Create a data model
 Changing data formats and Categories in Power BI table view
 Adding Hierarchy & hiding foreign keys view from report view
+Add dax measures to calculate KPIs and to use in the report
+Creating Dashboard, adding card, bar chart, line chart, kpi, and matrix
+edit report interaction and add drill through page on product detail page so that user can filter the page by a product name from Executive Dashboard on Top 10 products table
