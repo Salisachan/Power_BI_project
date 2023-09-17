@@ -1,8 +1,8 @@
 # Power BI Portfolio Project
 
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/500px-Power_bi_logo_black.svg.png)
 
-Welcome to my Power BI portfolio project repository! In this project, I've leveraged Microsoft's sample database, which represents data from a bike shop company called Adventureworks. This dataset includes various tables which are customer data, calendar information, product details, sales data, and more. The primary focus of this repository is to showcase my skills in using Power BI for data cleaning, transformation, and visualization.
+Welcome to my Power BI portfolio project repository! In this project, I've leveraged Microsoft's sample database, which represents data from a bike shop company called Adventureworks. This dataset includes various tables, including customer data, calendar information, product details, sales data, and more. The primary focus of this repository is to showcase my skills in using Power BI for data cleaning, transformation, and visualization.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -50,10 +50,10 @@ The primary objectives of this portfolio project are as follows:
 ## Repository Structure
 ```
 ├── data/                 # Folder containing the dataset files
-├── report/              # Folder containing Power BI report files
+├── reports/              # Folder containing Power BI report files
 ├── screenshots/          # Screenshots of Power BI visualizations
 ├── README.md             # This README file
-
+└── LICENSE               # License information
 ```
 
 ## Visualizations
