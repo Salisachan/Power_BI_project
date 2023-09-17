@@ -62,9 +62,9 @@ The primary objectives of this portfolio project are as follows:
 ## Visualizations
 Here are some screenshots of the Power BI visualizations created in this project:
 
-![Sample Visualization 1](https://github.com/Salisachan/Power_BI_projects/blob/master/screenshots/Screenshot%202023-09-17%20140031.png?raw=true)
+![Sample Visualization 1](https://github.com/Salisachan/Power_BI_projects/blob/master/screenshots/01_Executive_Dashboard.png?raw=true)
 
-![Sample Visualization 2](https://github.com/Salisachan/Power_BI_projects/blob/master/screenshots/Screenshot%202023-09-17%20140313.png?raw=true)
+![Sample Visualization 2](https://github.com/Salisachan/Power_BI_projects/blob/master/screenshots/03_Product_Detail.png?raw=true)
 
 For the full interactive experience and to explore the insights in detail, please refer to the Power BI report files in the `reports/` folder.
 
