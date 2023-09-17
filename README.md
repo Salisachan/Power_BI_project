@@ -36,6 +36,7 @@ The dataset used in this project comprises several tables and is **simulated** d
 8. **Sales Table:** A fact table that records sales transactions, including sales dates, product keys, customer keys, territory keys and quantities.
 
 9. **Return Data Table:** Another fact table that records product returns, including return dates, and product keys. 
+
 This simulated dataset serves as a suitable foundation for demonstrating various Power BI data manipulation and visualization techniques.
 
 ## Objectives
